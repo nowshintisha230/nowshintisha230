@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafisha Nowshin Tisha</h1>
-<h3 align="center">Frontend Developer | CSE Student | AI Enthusiast from Bangladesh</h3>
+<h3 align="center">Full Stack Developer | CSE Student | AI Enthusiast from Bangladesh</h3>
 
 <p align="center">
 💻 I build modern and responsive websites using React & JavaScript
